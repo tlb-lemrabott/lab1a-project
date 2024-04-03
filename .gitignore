@@ -4,8 +4,8 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-solution/EmployeePensionsPlanningSystemCLI/.idea/
-solution/EmployeePensionsPlanningSystemCLI/target/
+solution/ProductManagementCLI/.idea/
+solution/ProductManagementCLI/out/
 *.iws
 *.iml
 *.ipr
